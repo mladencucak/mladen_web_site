@@ -32,18 +32,16 @@ a.tooltip:hover span, a.tooltip:focus span {
 <link rel="stylesheet" href="/font-awesome/css/all.css">
 <img src = "/img/bio/photo.jpg" style = "border-radius: 50%; border: 4px solid lightgrey; float: right"  width=230>
 
-Briefly, I work on understanding and quantifying the relationship of the pest, host, environemnet and human interaction in order to turn it into a practical pest management decision making advice. 
-I try to incorporate advanced statistical and mathematical comutational approaches to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is avaialble, open-source and reproducible. 
+Briefly, I work on understanding and quantifying the relationship of the pest, host, environment and human interaction in order to turn it into a practical pest management decision making advice. 
+I try to incorporate advanced statistical and mathematical computational approaches to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is available, open-source and reproducible. 
 
-My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in quantitative side of plant protection. I became interested in decision support in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system VIPS [VIPS](http://testvips.nibio.no/)in Norwegian Institute of Bio-Economy research (NIBIO). Later, that path led me to start a PhD study on forecasting potato late blight in Ireland. On my professional and educational path, I have lived in four countries other than my own and worked in diverse teams and conditions. 
+My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in quantitative side of plant protection. I became interested in decision support in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system [VIPS](http://testvips.nibio.no/) in Norwegian Institute of Bio-Economy research (NIBIO). Later, that path led me to start a PhD study on forecasting potato late blight in Ireland. On my professional and educational path, I have lived in four countries other than my own and worked in diverse teams and conditions. 
 
-<a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-2x">
+<a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-22x">
 </i></a>&nbsp;
-
-
 <br>
 ## Academic websites
-My peer-reviewed publications ae available at several academic websites. 
+My peer-reviewed publications are available at several academic websites. 
  <br>
 <a  class = "tooltip" href="https://orcid.org/0000-0001-5429-5340">
 <i class="ai ai-orcid ai-2x">
