@@ -1,6 +1,6 @@
 ---
 aliases:
-- about-me
+- bio
 author:
   name: Mladen Cucak
 date: "2020/04/01"
@@ -30,7 +30,7 @@ a.tooltip:hover span, a.tooltip:focus span {
 </style>
 
 <link rel="stylesheet" href="/font-awesome/css/all.css">
-<img src = "/img/about/photo.jpg" style = "border-radius: 50%; border: 4px solid lightgrey; float: right"  width=230>
+<img src = "/img/bio/photo.jpg" style = "border-radius: 50%; border: 4px solid lightgrey; float: right"  width=230>
 
 Briefly, I work on understanding and quantifying the relationship of the pest, host, environemnet and human interaction in order to turn it into a practical pest management decision making advice. 
 I try to incorporate advanced statistical and mathematical comutational approaches to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is avaialble, open-source and reproducible. 
@@ -43,22 +43,17 @@ My formal education background is in the field of plant production/plant protect
 
 <br>
 ## Academic websites
-
 My peer-reviewed publications ae available at several academic websites. 
  <br>
-
 <a  class = "tooltip" href="https://orcid.org/0000-0001-5429-5340">
 <i class="ai ai-orcid ai-2x">
 </i></a>&nbsp;
-
 <a title = "Publons"  class = "tooltip" href="https://publons.com/researcher/3544123/mladen-cucak/">
 <i class="ai ai-publons ai-2x">
 </i></a>&nbsp;
-
 <a title = "Google Scholar" class = "tooltip" href="https://scholar.google.com.br/citations?hl=en&user=dZVVzAEAAAAJ>
 <i class="ai ai-google-scholar-square ai-2x">
 </i></a>&nbsp;
-
 <a title = "ResearchGate" class = "tooltip" href="https://www.researchgate.net/profile/Mladen_Cucak">
 <i class="ai ai-researchgate-square ai-2x">
 </i></a>&nbsp;

@@ -130,13 +130,13 @@ disableHugoGeneratorInject = false
 [menu]
 
   [[menu.main]]
-    identifier = "cv"
+    identifier = "bio"
     name       = "Bio & Pubs"
-    url        = "cv/"
+    url        = "bio/"
 
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
 
-    
+  

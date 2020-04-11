@@ -11,7 +11,7 @@ series:
 tags:
 - Meetings
 - Epidemiology
-title: International Epidemiology Workshop (IEW12) in Norway
+title: Title
 type:
 - posts
 - post
@@ -20,7 +20,7 @@ type:
 Text
 
 
-![](/img/posts/iew12-0.jpg)
+![test](/img/posts/test.png)
 
 > Caption.
  

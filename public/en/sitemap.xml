@@ -25,11 +25,6 @@
   </url>
   
   <url>
-    <loc>https://mladencucak.netlify.com/posts/2018/06/international-epidemiology-workshop-iew12-in-norway/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mladencucak.netlify.com/categories/meetings/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -77,6 +72,11 @@
                 hreflang="en"
                 href="https://mladencucak.netlify.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mladencucak.netlify.com/posts/2018/06/title/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
