@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Malden Cucak"
+  description = "Mladen Cucak"
   keywords = ""
   images = [""]
 
@@ -109,39 +109,34 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/maldencucak"
+    url  = "https://twitter.com/mladencucak"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/emdelponte"
+    url  = "https://github.com/mladencucak"
 
     
 [languages]
   [languages.en]
-    subtitle  = "Associate Professor"
+    subtitle  = ""
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Associate Professor"
+    subtitle  = ""
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-
-  [[menu.main]]
-    identifier = "code"
-    name       = "Code"
-    url        = "code/"
 
   [[menu.main]]
     identifier = "cv"
-    name       = "CV & Pubs"
+    name       = "Bio & Pubs"
     url        = "cv/"
 
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
 
     
