@@ -33,7 +33,7 @@ a.tooltip:hover span, a.tooltip:focus span {
 <img src = "/img/bio/photo.jpg" style = "border-radius: 50%; border: 4px solid lightgrey; float: right"  width=230>
 
 Briefly, I work on understanding and quantifying the relationship of the pest, host, environment and human interaction in order to turn it into a practical pest management decision making advice. 
-I try to incorporate advanced statistical and mathematical computational approaches to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is available, open-source and reproducible. 
+I try to incorporate statistical and mathematical computational approaches to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is freely available, open-source and reproducible. 
 
 My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in quantitative side of plant protection. I became interested in decision support in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system [VIPS](http://testvips.nibio.no/) in Norwegian Institute of Bio-Economy research (NIBIO). Later, that path led me to start a PhD study on forecasting potato late blight in Ireland. On my professional and educational path, I have lived in four countries other than my own and worked in diverse teams and conditions. 
 
