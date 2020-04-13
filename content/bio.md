@@ -33,7 +33,7 @@ a.tooltip:hover span, a.tooltip:focus span {
 <img src = "/img/bio/photo.jpg" style = "border-radius: 50%; border: 4px solid lightgrey; float: right"  width=230>
 
 Briefly,  the focus of my work on understanding and quantifying the relationship of the pest, host, environment and human interaction in order to turn it into a practical integrated pest management decision making advice. 
-I am combining statistical and mathematical computational approaches [(*example*)](https://mladencucak.github.io/PLBFieldTrial/index.html) with applied field/lab methods [(example)](https://mladencucak.github.io/AnalysisPLBIreland/) to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is freely available, open-source and reproducible.  
+I am combining statistical and mathematical computational approaches [(*example*)](https://mladencucak.github.io/PLBFieldTrial/index.html) with applied field/lab methods [(*example*)](https://mladencucak.github.io/AnalysisPLBIreland/) to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is freely available, open-source and reproducible.  
 My *Curriculum Vitae* is availalble on this link
 <a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-2x">
 </i></a>&nbsp;
