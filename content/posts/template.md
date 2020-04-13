@@ -11,7 +11,7 @@ series:
 tags:
 - Meetings
 - Epidemiology
-title: Title
+title: Template
 type:
 - posts
 - post
