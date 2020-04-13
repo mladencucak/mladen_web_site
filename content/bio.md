@@ -37,7 +37,7 @@ I try to incorporate statistical and mathematical computational approaches to si
 
 My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in quantitative side of plant protection. I became interested in decision support in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system [VIPS](http://testvips.nibio.no/) in Norwegian Institute of Bio-Economy research (NIBIO). Later, that path led me to start a PhD study on forecasting potato late blight in Ireland. On my professional and educational path, I have lived in four countries other than my own and worked in diverse teams and conditions. 
 
-<a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-22x">
+<a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-2x">
 </i></a>&nbsp;
 <br>
 ## Academic websites
