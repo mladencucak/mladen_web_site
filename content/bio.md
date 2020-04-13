@@ -32,14 +32,15 @@ a.tooltip:hover span, a.tooltip:focus span {
 <link rel="stylesheet" href="/font-awesome/css/all.css">
 <img src = "/img/bio/photo.jpg" style = "border-radius: 50%; border: 4px solid lightgrey; float: right"  width=230>
 
-Briefly, I work on understanding and quantifying the relationship of the pest, host, environment and human interaction in order to turn it into a practical integrated pest management decision making advice. 
-I am combining statistical and mathematical computational approaches [(*example*)](https://mladencucak.github.io/PLBFieldTrial/index.html) with applied field/lab methods [(example)](https://mladencucak.github.io/AnalysisPLBIreland/) to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is freely available, open-source and reproducible. 
-
-My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in quantitative side of plant protection. I became interested in integrated pest management in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system [VIPS](http://testvips.nibio.no/) in Norwegian Institute of Bio-Economy research (NIBIO). Later, that path led me to start a PhD study on forecasting potato late blight in the Republic Ireland. On my professional and educational path, I have lived and worked in diverse teams and conditions in four countries other than my own. 
-
+Briefly,  the focus of my work on understanding and quantifying the relationship of the pest, host, environment and human interaction in order to turn it into a practical integrated pest management decision making advice. 
+I am combining statistical and mathematical computational approaches [(*example*)](https://mladencucak.github.io/PLBFieldTrial/index.html) with applied field/lab methods [(example)](https://mladencucak.github.io/AnalysisPLBIreland/) to simplify and understand these relationships. I believe that science should be accessible and reproducible, hence all computational work from my PhD is freely available, open-source and reproducible.  
+My *Curriculum Vitae* is availalble on the link below:
 <a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-2x">
 </i></a>&nbsp;
 <br>
+
+My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in the quantitative side of plant protection. I became interested in integrated pest management in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system [VIPS](http://testvips.nibio.no/) in Norwegian Institute of Bio-Economy Research (NIBIO). Later, that path led me to start a PhD study on forecasting potato late blight in the Republic of Ireland. On my professional and educational path, I have lived and worked in diverse teams and conditions in four countries other than my own. 
+
 ## Academic websites
 My peer-reviewed publications are available at several academic websites. 
  <br>
