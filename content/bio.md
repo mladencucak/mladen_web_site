@@ -39,7 +39,7 @@ My *Curriculum Vitae* is availalble on this link
 </i></a>&nbsp;
 <br>
 
-My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in the quantitative side of plant protection. I became interested in integrated pest management in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system [VIPS](http://testvips.nibio.no/) in Norwegian Institute of Bio-Economy Research (NIBIO). Later, that path led me to start a PhD study on forecasting potato late blight in the Republic of Ireland. On my professional and educational path, I have lived and worked in diverse teams and conditions in four countries other than my own. 
+My formal education background is in the field of plant production/plant protection, which later evolved due to the interest in the quantitative side of plant protection. I became interested in integrated pest management in agriculture during my Master studies, after which I got an opportunity to work on a project devoted to the development of crop disease and pest decision support system [VIPS](http://testvips.nibio.no/) in Norwegian Institute of Bio-Economy Research (NIBIO). Subsequently, that path led me to start my PhD study on forecasting potato late blight in the Republic of Ireland. On my professional and educational path, I have lived and worked in diverse teams and conditions in four countries other than my own. 
 
 ## Academic websites
 My peer-reviewed publications are available at several academic websites. 
