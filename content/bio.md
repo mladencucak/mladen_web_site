@@ -32,7 +32,7 @@ a.tooltip:hover span, a.tooltip:focus span {
 <link rel="stylesheet" href="/font-awesome/css/all.css">
 <img src = "/img/bio/photo.jpg" style = "border-radius: 50%; border: 4px solid lightgrey; float: right"  width=230>
 My *Curriculum Vitae* is availalble on this link:
-<a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-3x">
+<a class = "tooltip" href="/bio/CV_Cucak_Mladen.pdf" title ="Full CV in PDF"><i class="ai ai-cv ai-2x">
 </i></a>&nbsp;
 <br>
 
