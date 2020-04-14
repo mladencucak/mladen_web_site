@@ -23,12 +23,12 @@
     </item>
     
     <item>
-      <title>What do I do and why?</title>
+      <title>What do I do?</title>
       <link>https://mladencucak.netlify.com/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mladencucak.netlify.com/bio/</guid>
-      <description>a.tooltip { position: relative; } a.tooltip span { display: none; } a.tooltip:hover span, a.tooltip:focus span { display:block; position:absolute; top:1em; left:1.5em; padding: 0.2em 0.6em; border:1px solid #996633; background-color:#FFFF66; color:#000; }  Briefly, the focus of my work on understanding and quantifying the relationship of the pest, host, environment and human interaction in order to turn it into a practical integrated pest management decision making advice. I am combining statistical and mathematical computational approaches (example) with applied field/lab methods (example) to simplify and understand these relationships.</description>
+      <description>a.tooltip { position: relative; } a.tooltip span { display: none; } a.tooltip:hover span, a.tooltip:focus span { display:block; position:absolute; top:1em; left:1.5em; padding: 0.2em 0.6em; border:1px solid #996633; background-color:#FFFF66; color:#000; }  My Curriculum Vitae is availalble on this link: &amp;nbsp; Briefly, the focus of my work is on understanding and quantifying the relationship of the pest, host, environment and human interaction in order to turn it into a practical integrated pest management decision making advice.</description>
     </item>
     
   </channel>
