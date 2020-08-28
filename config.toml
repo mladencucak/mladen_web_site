@@ -134,9 +134,9 @@ disableHugoGeneratorInject = false
     name       = "Bio & Pubs"
     url        = "bio/"
 
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+#  [[menu.main]]
+#    identifier = "posts"
+#    name       = "Posts"
+#    url        = "posts/"
 
   
