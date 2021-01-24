@@ -18,9 +18,7 @@
  Caption.
  </description>
             <content type="html"><![CDATA[<p>Text</p>
-
-<p><img src="/img/posts/test.png" alt="test" /></p>
-
+<p><img src="/img/posts/test.png" alt="test"></p>
 <blockquote>
 <p>Caption.</p>
 </blockquote>
