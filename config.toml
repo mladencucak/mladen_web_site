@@ -97,3 +97,10 @@ disableHugoGeneratorInject = false
     identifier = "bio"
     name       = "Bio & Pubs"
     url        = "bio/"
+    
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.135.0"
