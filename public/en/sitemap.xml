@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://mladencucak.netlify.com/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mladencucak.netlify.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mladencucak.netlify.com/"
+                />
+  </url><url>
+    <loc>https://mladencucak.netlify.com/bio/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mladencucak.netlify.com/categories/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,44 +30,19 @@
                 hreflang="en"
                 href="https://mladencucak.netlify.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mladencucak.netlify.com/tags/epidemiology/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mladencucak.netlify.com/tags/meetings/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mladencucak.netlify.com/categories/meetings/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mladencucak.netlify.com/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mladencucak.netlify.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mladencucak.netlify.com/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mladencucak.netlify.com/posts/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mladencucak.netlify.com/tags/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,20 +55,23 @@
                 hreflang="en"
                 href="https://mladencucak.netlify.com/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mladencucak.netlify.com/posts/2018/06/template/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mladencucak.netlify.com/categories/travel/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mladencucak.netlify.com/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mladencucak.netlify.com/fr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mladencucak.netlify.com/authors/"
+                />
   </url>
-  
-  <url>
-    <loc>https://mladencucak.netlify.com/bio/</loc>
-  </url>
-  
 </urlset>

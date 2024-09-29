@@ -3,9 +3,10 @@ aliases:
 - bio
 author:
   name: Mladen Cucak
-date: "2020/04/01"
+date: "2024-04-01"
 title: What do I do?
 ---
+
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 <style>
