@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Mladen Čučak</title>
-    <link>http://localhost:4321/categories/travel/</link>
+    <link>https://mladencucak.netlify.com/categories/travel/</link>
     <description>Recent content in Travel on Mladen Čučak</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mladencucak.netlify.com/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Template</title>
-      <link>http://localhost:4321/posts/2018/06/template/</link>
+      <link>https://mladencucak.netlify.com/posts/2018/06/template/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/posts/2018/06/template/</guid>
-      <description>&lt;p&gt;Text&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;test&#34; src=&#34;http://localhost:4321/img/posts/test.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Caption.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+      <guid>https://mladencucak.netlify.com/posts/2018/06/template/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;test&#34; src=&#34;https://mladencucak.netlify.com/img/posts/test.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Caption.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

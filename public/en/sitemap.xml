@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://mladencucak.netlify.com/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:4321/fr/"
+                href="https://mladencucak.netlify.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/"
+                href="https://mladencucak.netlify.com/"
                 />
   </url><url>
-    <loc>http://localhost:4321/bio/</loc>
+    <loc>https://mladencucak.netlify.com/bio/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>https://mladencucak.netlify.com/categories/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:4321/fr/categories/"
+                href="https://mladencucak.netlify.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/categories/"
+                href="https://mladencucak.netlify.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4321/tags/epidemiology/</loc>
+    <loc>https://mladencucak.netlify.com/tags/epidemiology/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/meetings/</loc>
+    <loc>https://mladencucak.netlify.com/tags/meetings/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/meetings/</loc>
+    <loc>https://mladencucak.netlify.com/categories/meetings/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/posts/</loc>
+    <loc>https://mladencucak.netlify.com/posts/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://mladencucak.netlify.com/tags/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:4321/fr/tags/"
+                href="https://mladencucak.netlify.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/tags/"
+                href="https://mladencucak.netlify.com/tags/"
                 />
   </url><url>
-    <loc>http://localhost:4321/posts/2018/06/template/</loc>
+    <loc>https://mladencucak.netlify.com/posts/2018/06/template/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/travel/</loc>
+    <loc>https://mladencucak.netlify.com/categories/travel/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/authors/</loc>
+    <loc>https://mladencucak.netlify.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:4321/fr/authors/"
+                href="https://mladencucak.netlify.com/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/authors/"
+                href="https://mladencucak.netlify.com/authors/"
                 />
   </url>
 </urlset>
